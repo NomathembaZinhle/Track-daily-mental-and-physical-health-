@@ -1,0 +1,2 @@
+mkdir daily-health-tracker && cd daily-health-tracker
+npm init -y
