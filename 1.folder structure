@@ -1,0 +1,17 @@
+# Track-daily-mental-and-physical-health-
+/daily-health-tracker
+├── /client      → React frontend
+│   └── src
+│       ├── components
+│       ├── pages
+│       ├── services (API calls)
+│       └── App.js
+├── /server      → Express backend
+│   ├── models
+│   ├── routes
+│   ├── controllers
+│   ├── middleware
+│   └── server.js
+├── .env
+├── README.md
+└── package.json (root)
